@@ -2,7 +2,6 @@
 - 👀 I’m interested in cryptocurrencies, coding, making money, being rich, weitght lifting,
 - 🌱 I’m currently learning python  
 - 💞️ I’m looking to collaborate on idk 
-- 📫 How to reach me oskyrus#5240
 
 <!---
 oskyrus/oskyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
