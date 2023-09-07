@@ -8,4 +8,5 @@ zdjęcie dla uwagi
 
 
 ```python
-print("dk to szef") ```
+print("dk to szef")
+ ```
