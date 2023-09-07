@@ -6,8 +6,5 @@ zdjęcie dla uwagi
 ![](https://i.ibb.co/q7Nx3jr/received-597703322320304.jpg)
 [Filmik jak wyciskam 200 na klate  ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-``` 
-print("dk to szef")
 
-
-```
+``` #RRGGBB print("dk to szef") ```
