@@ -3,6 +3,6 @@
 ### Mieszkam w R̶̨̯̪̪̩̘̱̔̌̄̑̉̌͊͘͝O̵͈̍̓̉̊̑̅͌̾͘D̴͍͎̆͗̓̿̿̄͘̕̕Ō̸̢̧̬̳̮͎͙̮̆́̎͋̑̌͘
 #### Uczęszczam do R̶̨̯̪̪̩̘̱̔̌̄̑̉̌͊͘͝O̵͈̍̓̉̊̑̅͌̾͘D̴͍͎̆͗̓̿̿̄͘̕̕Ō̸̢̧̬̳̮͎͙̮̆́̎͋̑̌͘
 zdjęcie dla uwagi
-![.](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+!(ibb.co/VJg3c9q)
 [Filmik jak wyciskam 200 na klate  ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
