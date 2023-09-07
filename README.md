@@ -7,4 +7,5 @@ zdjęcie dla uwagi
 [Filmik jak wyciskam 200 na klate  ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-```python print("dk to szef") ```
+```python
+print("dk to szef") ```
